@@ -18,13 +18,15 @@ This repository contains my JavaScript code for solving challenges in the freeCo
 
 ## Installation
 
+## Installation
+
 To view or run the code locally, follow these steps:
 
 1. Clone this repository to your local machine:
+   git clone https://github.com/yourusername/freeCodeCamp-javascript-labs.git
 
-```bash
-git clone https://github.com/yourusername/freeCodeCamp-javascript-labs.git
-
+2. Navigate to the directory:
+   cd freeCodeCamp-javascript-labs
 
 ## Usage
 You can view each solution in the respective file. Each file corresponds to a specific challenge or lab in the freeCodeCamp curriculum.
@@ -32,11 +34,11 @@ You can view each solution in the respective file. Each file corresponds to a sp
 ## Labs and Challenges
 Below is a list of the challenges and labs included in this repository:
 
-Challenge 1 - Title
+Challenge 1 - 
 
-Challenge 2 - Title
+Challenge 2 - 
 
-Challenge 3 - Title
+Challenge 3 - 
 
 
 ## Technologies Used
