@@ -34,7 +34,7 @@ You can view each solution in the respective file. Each file corresponds to a sp
 ## Labs and Challenges
 Below is a list of the challenges and labs included in this repository:
 
-Challenge 1 - gradeBookApp.js
+Challenge 1 - gradeBookApp.js[gradeBookApp.js]
 
 Challenge 2 - 
 
