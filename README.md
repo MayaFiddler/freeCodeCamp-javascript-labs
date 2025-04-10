@@ -36,9 +36,9 @@ Below is a list of the challenges and labs included in this repository:
 
 Challenge 1 - [gradeBookApp.js](gradeBookApp.js)
 
-Challenge 2 - 
+Challenge 2 - [dateConversion.js](date-conversion.js)
 
-Challenge 3 - 
+
 
 
 ## Technologies Used
