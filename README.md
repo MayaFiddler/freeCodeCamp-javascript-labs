@@ -38,7 +38,7 @@ Challenge 1 - [gradeBookApp.js](gradeBookApp.js)
 
 Challenge 2 - [dateConversion.js](date-conversion.js)
 
-Challenge 3 - Favorite Icon
+Challenge 3 - [Favorite Icon](Favorite-Icon)
 
 
 
